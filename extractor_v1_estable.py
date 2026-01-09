@@ -256,3 +256,4 @@ if __name__ == "__main__":
         
     else:
         print("✗ No se pudo obtener el total de productos. Verifica la URL o la conexión.")
+
